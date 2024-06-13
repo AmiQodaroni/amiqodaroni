@@ -1,5 +1,5 @@
 :root {
-    --pink:#6229ff;
+    --pink:#2950ff;
     --bg:#000000;
     --shadow: 0 2px 2px rgb(0 0 0 / 0.5)
 
@@ -467,10 +467,10 @@ footer li {
 /* handpone */
 @media (max-width: 576px) {
     html{
-        font-size: 60%;
+        font-size: 50%;
     }
     .simply-countdown > .simply-section {
-        padding: 45px;
+        padding: 30px;
         margin: 3px;
     }
     .timeline li .timeline-image {
